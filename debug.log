@@ -1,0 +1,3 @@
+[1112/165715.351:ERROR:process_reader_win.cc(151)] SuspendThread: Zugriff verweigert (0x5)
+[1112/165715.464:ERROR:process_reader_win.cc(151)] SuspendThread: Zugriff verweigert (0x5)
+[1112/165715.464:ERROR:exception_snapshot_win.cc(88)] thread ID 72196 not found in process

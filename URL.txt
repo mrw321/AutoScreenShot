@@ -1,0 +1,5 @@
+http://www.google.de
+https://www.neps-data.de
+http://www.computerbase.de
+http://www.focus.de
+http://www.chefkoch.de
